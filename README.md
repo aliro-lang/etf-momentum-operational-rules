@@ -1,6 +1,6 @@
 # Momentum in ETFs under simple operational rules: updated code
 
-> **Notice.** After publication, we found an error in the code that changed the results of the
+> **Notice (November 18, 2026).** After publication, we found an error in the code that changed the results of the
 > article. For that reason we set up this repository with the updated tests. The error and its
 > correction are described in [CORRECTION.md](CORRECTION.md).
 
