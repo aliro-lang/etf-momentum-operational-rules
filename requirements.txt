@@ -1,0 +1,11 @@
+# Versions used to produce results/ (Python 3.13). pandas 3.x changes the result of the
+# technical half-exit signal; use pandas 2.2.x.
+pandas==2.2.3
+numpy==2.2.6
+scipy==1.18.1
+statsmodels==0.15.0
+pyarrow==26.0.1
+
+# Only to rebuild data/ from primary sources
+yfinance==1.8.0          # build_data/yahoo
+lseg-data               # build_data/lseg (requires an LSEG Workspace licence)

@@ -1,0 +1,16 @@
+# Licensed or third-party price data: never commit (see data/README.md)
+data/yahoo/prices_daily.parquet
+data/yahoo/raw/
+data/lseg/*
+!data/lseg/.gitkeep
+data/eikon/*
+!data/eikon/.gitkeep
+build_data/lseg/data/
+# Generated
+cache/
+__pycache__/
+*.pyc
+.venv*/
+.DS_Store
+# Large weekly equity curves are kept; uncomment to drop them
+# results/*/*_equity.csv
