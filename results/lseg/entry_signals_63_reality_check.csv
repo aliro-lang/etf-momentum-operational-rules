@@ -1,0 +1,2 @@
+dSharpe_best,p_RC_sharpe,p_RC_mean,n_rules_above_benchmark,benchmark_sharpe_std,best_rule
+-0.05006965054063556,0.8715,0.999,0,0.5240500680908204,C2+C6

@@ -1,0 +1,2 @@
+dSharpe_best,p_RC_sharpe,p_RC_mean,n_rules_above_benchmark,benchmark_sharpe_std,best_rule,SPY_sharpe_paper
+0.009673836273550562,0.817,0.9875,1,0.5240500680908204,MA_SMA200_RP_TP100,0.38374977021744927
